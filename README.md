@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Its-dzaniel
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python programming 
-- 💞️ I’m looking to collaborate on software development 
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me @Its-dzaniel
 
 <!---
